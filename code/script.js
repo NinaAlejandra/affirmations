@@ -9,7 +9,7 @@ const affirmations = [
     affirmation: `Jag är inte ensam`,
   },
   {
-    affirmation: `– Jag är omgiven av kärlek`,
+    affirmation: `Jag är omgiven av kärlek`,
   },
   {
     affirmation: `Jag är tillräcklig`,
@@ -36,7 +36,7 @@ const affirmations = [
     affirmation: `Jag är komplett som jag är`,
   },
   {
-    affirmation: `ag lär mig fortfarande så det är okej att göra misstag`,
+    affirmation: `Jag lär mig fortfarande så det är okej att göra misstag`,
   },
   {
     affirmation: `Jag hör hemma här, och jag förtjänar att ta plats`,
